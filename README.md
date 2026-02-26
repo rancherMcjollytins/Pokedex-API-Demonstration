@@ -18,6 +18,7 @@ THis projects dependencies are:
 -   Python 3.13/Interpreter
 -   requests package (pip install)
 -   All files installed (main, pokedex)
+-   equirements.txt
 btw im a kid who doesnt know what hes doing so if stuff is missing thats why
 
 #### To Install:
